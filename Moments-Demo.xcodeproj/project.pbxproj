@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F9AF8CA207A186200E896E8 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F9AF8C9207A186200E896E8 /* HeaderView.swift */; };
 		4FFAEAF62079EF7300166431 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFAEAF52079EF7300166431 /* User.swift */; };
 		4FFAEAF82079F24C00166431 /* Comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFAEAF72079F24C00166431 /* Comment.swift */; };
 		4FFAEAFA2079F2BC00166431 /* Feed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFAEAF92079F2BC00166431 /* Feed.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4F9AF8C9207A186200E896E8 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		4FFAEAF52079EF7300166431 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		4FFAEAF72079F24C00166431 /* Comment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comment.swift; sourceTree = "<group>"; };
 		4FFAEAF92079F2BC00166431 /* Feed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feed.swift; sourceTree = "<group>"; };
@@ -59,6 +61,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4F9AF8C8207A184E00E896E8 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				4F9AF8C9207A186200E896E8 /* HeaderView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		4FFAEAF42079EF4C00166431 /* Models */ = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +111,7 @@
 		4FFF88332079A22F00E40E7A /* Moments-Demo */ = {
 			isa = PBXGroup;
 			children = (
+				4F9AF8C8207A184E00E896E8 /* Views */,
 				4FFAEAFF207A0C6D00166431 /* avatars */,
 				4FFAEAFD207A097E00166431 /* feedImages */,
 				4FFAEAF42079EF4C00166431 /* Models */,
@@ -216,6 +227,7 @@
 				4FFAEAFC2079FBCA00166431 /* Stubs.swift in Sources */,
 				4FFAEAF62079EF7300166431 /* User.swift in Sources */,
 				4FFAEAF82079F24C00166431 /* Comment.swift in Sources */,
+				4F9AF8CA207A186200E896E8 /* HeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
