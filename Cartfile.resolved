@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "4.7.1"
+github "nvzqz/RandomKit" "v5.2.3"
+github "nvzqz/ShiftOperations" "v1.0.2"
+github "nvzqz/Threadly" "v1.2.0"
