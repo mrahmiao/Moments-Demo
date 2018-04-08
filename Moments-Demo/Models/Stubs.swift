@@ -66,3 +66,14 @@ let feedLibrary: [String] = [
   "修复工作的进展顺利吗？虽然有点麻烦，还是得拜托你了呢，地球人Master~",
   "经过了很多事情，成就了很不错的修行呢。Dun·Stallion II的结局无法避免的，来领取剩余的奖励吧。别忘记交换哟~"
 ]
+
+let sharingLibrary: [String] = [
+  "http://www.cocoachina.com/ios/20170207/18644.html",
+  "http://www.cocoachina.com/bbs/read.php?tid=26512",
+  "https://github.com/vsouza/awesome-ios",
+  "https://github.com/matteocrippa/awesome-swift",
+  "https://github.com/h4cc/awesome-elixir",
+  "https://elixir-lang.org/",
+  "https://elixirschool.com/",
+  "https://dev.to/javierg/why-i-learned-elixir-lang-99f"
+]
