@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4FFAEAF62079EF7300166431 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFAEAF52079EF7300166431 /* User.swift */; };
 		4FFAEAF82079F24C00166431 /* Comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFAEAF72079F24C00166431 /* Comment.swift */; };
+		4FFAEAFA2079F2BC00166431 /* Feed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFAEAF92079F2BC00166431 /* Feed.swift */; };
 		4FFF88352079A22F00E40E7A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFF88342079A22F00E40E7A /* AppDelegate.swift */; };
 		4FFF88372079A22F00E40E7A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFF88362079A22F00E40E7A /* ViewController.swift */; };
 		4FFF883A2079A22F00E40E7A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FFF88382079A22F00E40E7A /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		4FFAEAF52079EF7300166431 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		4FFAEAF72079F24C00166431 /* Comment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comment.swift; sourceTree = "<group>"; };
+		4FFAEAF92079F2BC00166431 /* Feed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feed.swift; sourceTree = "<group>"; };
 		4FFF88312079A22F00E40E7A /* Moments-Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Moments-Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FFF88342079A22F00E40E7A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4FFF88362079A22F00E40E7A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -44,6 +46,7 @@
 			children = (
 				4FFAEAF52079EF7300166431 /* User.swift */,
 				4FFAEAF72079F24C00166431 /* Comment.swift */,
+				4FFAEAF92079F2BC00166431 /* Feed.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4FFF88372079A22F00E40E7A /* ViewController.swift in Sources */,
+				4FFAEAFA2079F2BC00166431 /* Feed.swift in Sources */,
 				4FFF88352079A22F00E40E7A /* AppDelegate.swift in Sources */,
 				4FFAEAF62079EF7300166431 /* User.swift in Sources */,
 				4FFAEAF82079F24C00166431 /* Comment.swift in Sources */,
